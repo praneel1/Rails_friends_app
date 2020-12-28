@@ -1,24 +1,12 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello. My name is Praneel Maitra.
 
-Things you may want to cover:
+I made this on 28-12-2020.
 
-* Ruby version
+I was 14 year old that time.
 
-* System dependencies
+Here you can make your own friends list by logging in.
 
-* Configuration
+Hope u like it.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
